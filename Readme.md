@@ -1,5 +1,5 @@
 ## Business Website
-Designed a business website from scratch using HTML, CSS and Bootstrap
+Designed a business website from scratch using HTML, CSS, Bootstrap, JavaScript.
 
 ## Webview 
 ![Webview](img1.png)
@@ -14,6 +14,8 @@ Designed a business website from scratch using HTML, CSS and Bootstrap
 
 - The footer section includes a form. 
 
+- Smooth-scroll functionality added using JavaScript.
+
 ## Instructions
 
 - Just open the index.html file.
@@ -21,5 +23,6 @@ Designed a business website from scratch using HTML, CSS and Bootstrap
 ## Technologies Used
 
 - HTML
--CSS
--Bootstrap
+- CSS
+- Bootstrap
+- JavaScript
